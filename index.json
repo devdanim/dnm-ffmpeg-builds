@@ -1,0 +1,9 @@
+{
+    "version": "4.3.1",
+    "license": "FFMPEG-LICENSE.txt",
+    "source": "https://github.com/FFmpeg/FFmpeg/archive/n4.3.1.zip",
+    "builds": {
+        "win": "bin/ffmpeg-win64.zip",
+        "mac": "bin/ffmpeg-macos64.zip"
+    }
+}
