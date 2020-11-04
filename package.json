@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Release builds from https://github.com/ShareX/FFmpeg/releases and https://evermeet.cx/ffmpeg/",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "git": "git add . && git commit -m",
+    "postgit": "git push -u"
   },
   "repository": {
     "type": "git",
