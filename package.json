@@ -1,0 +1,20 @@
+{
+  "name": "dnm-ffmpeg-builds",
+  "version": "1.0.0",
+  "description": "Release builds from https://github.com/ShareX/FFmpeg/releases and https://evermeet.cx/ffmpeg/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdanim/dnm-ffmpeg-builds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devdanim/dnm-ffmpeg-builds/issues"
+  },
+  "homepage": "https://github.com/devdanim/dnm-ffmpeg-builds#readme"
+}
